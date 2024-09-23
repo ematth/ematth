@@ -15,7 +15,7 @@
  
 ### How to contact me
 
-- ![Email](evanmm3@illinois.edu) <- *most frequently checked!*
-- ![LinkedIn](https://linkedin.com/in/ematth)
+- [Email](evanmm3@illinois.edu) <- *most frequently checked!*
+- [LinkedIn](https://linkedin.com/in/ematth)
 
 Last updated: 9/23/24
