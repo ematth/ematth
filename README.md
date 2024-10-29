@@ -15,4 +15,7 @@
 - [Email](mailto:evanmm3@illinois.edu) <- *most frequently checked!*
 - [LinkedIn](https://linkedin.com/in/ematth)
 
-Last updated: 9/23/24
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ematth&size_weight=0.5&count_weight=0.5&theme=cobalt)
+
+Last updated: 10/28/24
