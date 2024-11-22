@@ -1,5 +1,5 @@
 ## Hi everyone 👋, I'm Evan Matthews!
-#### 📶 Signal processing engineer, 🎹 composer, 📝 LaTeX & 🎵 music notation geek
+#### 📶 Signal processing engineer, 🎹 composer, 📝 LaTeX & 🎵 music notation nerd
 
 ⭐️ [My Website](https://ematth.dev) ⭐️
 
