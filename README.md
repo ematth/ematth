@@ -12,7 +12,7 @@
  
 ### How to contact me
 
-- [Email](mailto:evanmm3@illinois.edu) <- *most frequently checked!*
+- [Email](mailto:ematth1@outlook.com) <- *most frequently checked!*
 - [LinkedIn](https://linkedin.com/in/ematth)
 
 Last updated: 10/28/24
